@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gooday</folder>
+	<filename>gooday68.jpg</filename>
+	<path>F:\IDownloads\gooday\gooday68.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>185</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gooday-medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>32</ymin>
+			<xmax>246</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

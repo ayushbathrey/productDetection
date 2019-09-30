@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coke</folder>
+	<filename>coke67.jpg</filename>
+	<path>F:\IDownloads\coke\coke67.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>265</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke-glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>3</ymin>
+			<xmax>227</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

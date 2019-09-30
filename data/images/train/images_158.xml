@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lays</folder>
+	<filename>images_158.jpg</filename>
+	<path>F:\IDownloads\lays\images_158.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>207</width>
+		<height>244</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lays-small-5</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>20</ymin>
+			<xmax>207</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

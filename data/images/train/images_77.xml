@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lays</folder>
+	<filename>images_77.jpg</filename>
+	<path>F:\IDownloads\lays\images_77.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>185</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lays-med</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>3</ymin>
+			<xmax>205</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

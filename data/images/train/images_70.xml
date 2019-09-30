@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>lays</folder>
+	<filename>images_70.jpg</filename>
+	<path>F:\IDownloads\lays\images_70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>179</width>
+		<height>282</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lays-large</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>8</ymin>
+			<xmax>159</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>
