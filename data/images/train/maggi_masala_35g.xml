@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>maggi_masala_35g.jpg</filename>
+	<path>B:\OBJDectExp\Kirana\images\maggi_masala_35g.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maggi-small</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>101</ymin>
+			<xmax>559</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Maggi_2_Minute_Noodles_Masala_Spicy_2.8OZ_39607__24961.1427719663.1280.1280.jpg</filename>
+	<path>B:\OBJDectExp\Kirana\images\Maggi_2_Minute_Noodles_Masala_Spicy_2.8OZ_39607__24961.1427719663.1280.1280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maggi-small</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>8</ymin>
+			<xmax>800</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>

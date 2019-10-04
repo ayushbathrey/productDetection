@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Maggi-Noodles.jpg</filename>
+	<path>B:\OBJDectExp\Kirana\images\Maggi-Noodles.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maggi-small</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>186</ymin>
+			<xmax>527</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

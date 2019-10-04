@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>dt-maggi_0.jpg</filename>
+	<path>B:\OBJDectExp\Kirana\images\dt-maggi_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maggi-small</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>133</ymin>
+			<xmax>547</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>
