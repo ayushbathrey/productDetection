@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.1441018958.png</filename>
+	<path>B:\OBJDectExp\Kirana\images\Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.1441018958.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maggi-family</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>44</ymin>
+			<xmax>767</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

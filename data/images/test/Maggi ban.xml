@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Maggi ban.jpg</filename>
+	<path>B:\OBJDectExp\Kirana\images\Maggi ban.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maggi-family</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>125</ymin>
+			<xmax>290</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>maggi-family</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>156</ymin>
+			<xmax>437</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

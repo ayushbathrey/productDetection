@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>_83420634_1d463cdb-42a5-455c-9102-1a035bb37018.jpg</filename>
+	<path>B:\OBJDectExp\Kirana\images\_83420634_1d463cdb-42a5-455c-9102-1a035bb37018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maggi-small</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>14</ymin>
+			<xmax>745</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>
