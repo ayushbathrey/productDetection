@@ -1,0 +1,3102 @@
+From 9a0d3094a23d91997a4593c23a90132cb1e40082 Mon Sep 17 00:00:00 2001
+From: sukhatmegaurav <sukhatmegaurav@gmail.com>
+Date: Fri, 4 Oct 2019 19:32:33 +0530
+Subject: added maggi
+
+
+diff --git a/data/images/test/165271a.jpg b/data/images/test/165271a.jpg
+new file mode 100644
+index 0000000..dce7edb
+Binary files /dev/null and b/data/images/test/165271a.jpg differ
+diff --git a/data/images/test/165271a.xml b/data/images/test/165271a.xml
+new file mode 100644
+index 0000000..8f9bbb2
+--- /dev/null
++++ b/data/images/test/165271a.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>165271a.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\165271a.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>190</xmin>
++			<ymin>80</ymin>
++			<xmax>595</xmax>
++			<ymax>518</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/test/22NOVZUB--Maggi+23THMAGGI_NOODLES.j.jpg b/data/images/test/22NOVZUB--Maggi+23THMAGGI_NOODLES.j.jpg
+new file mode 100644
+index 0000000..fa8a169
+Binary files /dev/null and b/data/images/test/22NOVZUB--Maggi+23THMAGGI_NOODLES.j.jpg differ
+diff --git a/data/images/test/22NOVZUB--Maggi+23THMAGGI_NOODLES.xml b/data/images/test/22NOVZUB--Maggi+23THMAGGI_NOODLES.xml
+new file mode 100644
+index 0000000..a837575
+--- /dev/null
++++ b/data/images/test/22NOVZUB--Maggi+23THMAGGI_NOODLES.xml
+@@ -0,0 +1,98 @@
++<annotation>
++	<folder>images</folder>
++	<filename>22NOVZUB--Maggi+23THMAGGI_NOODLES.j.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\22NOVZUB--Maggi+23THMAGGI_NOODLES.j.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>95</xmin>
++			<ymin>1</ymin>
++			<xmax>228</xmax>
++			<ymax>207</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>401</xmin>
++			<ymin>64</ymin>
++			<xmax>481</xmax>
++			<ymax>220</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>269</xmin>
++			<ymin>342</ymin>
++			<xmax>447</xmax>
++			<ymax>571</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>54</xmin>
++			<ymin>328</ymin>
++			<xmax>211</xmax>
++			<ymax>484</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>166</xmin>
++			<ymin>298</ymin>
++			<xmax>289</xmax>
++			<ymax>468</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>420</xmin>
++			<ymin>282</ymin>
++			<xmax>499</xmax>
++			<ymax>435</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>232</xmin>
++			<ymin>112</ymin>
++			<xmax>337</xmax>
++			<ymax>207</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/test/41hws7Pmc4L.jpg b/data/images/test/41hws7Pmc4L.jpg
+new file mode 100644
+index 0000000..af3ed3d
+Binary files /dev/null and b/data/images/test/41hws7Pmc4L.jpg differ
+diff --git a/data/images/test/41hws7Pmc4L.xml b/data/images/test/41hws7Pmc4L.xml
+new file mode 100644
+index 0000000..bcbb475
+--- /dev/null
++++ b/data/images/test/41hws7Pmc4L.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>41hws7Pmc4L.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\41hws7Pmc4L.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>18</xmin>
++			<ymin>123</ymin>
++			<xmax>737</xmax>
++			<ymax>473</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/test/71OPa99tUPL._SL1461_.jpg b/data/images/test/71OPa99tUPL._SL1461_.jpg
+new file mode 100644
+index 0000000..3d26645
+Binary files /dev/null and b/data/images/test/71OPa99tUPL._SL1461_.jpg differ
+diff --git a/data/images/test/71OPa99tUPL.xml b/data/images/test/71OPa99tUPL.xml
+new file mode 100644
+index 0000000..88cabca
+--- /dev/null
++++ b/data/images/test/71OPa99tUPL.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>71OPa99tUPL._SL1461_.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\71OPa99tUPL._SL1461_.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>30</xmin>
++			<ymin>91</ymin>
++			<xmax>766</xmax>
++			<ymax>497</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/test/812o4EQXPKL._SX679_.jpg b/data/images/test/812o4EQXPKL._SX679_.jpg
+new file mode 100644
+index 0000000..614dc05
+Binary files /dev/null and b/data/images/test/812o4EQXPKL._SX679_.jpg differ
+diff --git a/data/images/test/812o4EQXPKL.xml b/data/images/test/812o4EQXPKL.xml
+new file mode 100644
+index 0000000..a81ba59
+--- /dev/null
++++ b/data/images/test/812o4EQXPKL.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>812o4EQXPKL._SX679_.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\812o4EQXPKL._SX679_.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>131</xmin>
++			<ymin>14</ymin>
++			<xmax>647</xmax>
++			<ymax>574</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/test/81JI5O0qB5L._SX679_.jpg b/data/images/test/81JI5O0qB5L._SX679_.jpg
+new file mode 100644
+index 0000000..c1f4a3d
+Binary files /dev/null and b/data/images/test/81JI5O0qB5L._SX679_.jpg differ
+diff --git a/data/images/test/81JI5O0qB5L.xml b/data/images/test/81JI5O0qB5L.xml
+new file mode 100644
+index 0000000..8141ee0
+--- /dev/null
++++ b/data/images/test/81JI5O0qB5L.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>81JI5O0qB5L._SX679_.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\81JI5O0qB5L._SX679_.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>167</xmin>
++			<ymin>21</ymin>
++			<xmax>607</xmax>
++			<ymax>572</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/test/Maggi ban.jpg b/data/images/test/Maggi ban.jpg
+new file mode 100644
+index 0000000..e9b6a7b
+Binary files /dev/null and b/data/images/test/Maggi ban.jpg differ
+diff --git a/data/images/test/Maggi ban.xml b/data/images/test/Maggi ban.xml
+new file mode 100644
+index 0000000..80819eb
+--- /dev/null
++++ b/data/images/test/Maggi ban.xml	
+@@ -0,0 +1,38 @@
++<annotation>
++	<folder>images</folder>
++	<filename>Maggi ban.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\Maggi ban.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>23</xmin>
++			<ymin>125</ymin>
++			<xmax>290</xmax>
++			<ymax>312</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>286</xmin>
++			<ymin>156</ymin>
++			<xmax>437</xmax>
++			<ymax>288</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/test/Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.1441018958.png b/data/images/test/Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.1441018958.png
+new file mode 100644
+index 0000000..98a2275
+Binary files /dev/null and b/data/images/test/Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.1441018958.png differ
+diff --git a/data/images/test/Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.xml b/data/images/test/Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.xml
+new file mode 100644
+index 0000000..eb7b082
+--- /dev/null
++++ b/data/images/test/Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.1441018958.png</filename>
++	<path>B:\OBJDectExp\Kirana\images\Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.1441018958.png</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>37</xmin>
++			<ymin>44</ymin>
++			<xmax>767</xmax>
++			<ymax>518</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/test/Maggi_ibnlive_380.jpg b/data/images/test/Maggi_ibnlive_380.jpg
+new file mode 100644
+index 0000000..d5aacbe
+Binary files /dev/null and b/data/images/test/Maggi_ibnlive_380.jpg differ
+diff --git a/data/images/test/Maggi_ibnlive_380.xml b/data/images/test/Maggi_ibnlive_380.xml
+new file mode 100644
+index 0000000..3cb6f36
+--- /dev/null
++++ b/data/images/test/Maggi_ibnlive_380.xml
+@@ -0,0 +1,38 @@
++<annotation>
++	<folder>images</folder>
++	<filename>Maggi_ibnlive_380.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\Maggi_ibnlive_380.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>8</xmin>
++			<ymin>225</ymin>
++			<xmax>724</xmax>
++			<ymax>467</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>23</xmin>
++			<ymin>8</ymin>
++			<xmax>737</xmax>
++			<ymax>240</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/test/_83420634_1d463cdb-42a5-455c-9102-1a035bb37018.jpg b/data/images/test/_83420634_1d463cdb-42a5-455c-9102-1a035bb37018.jpg
+new file mode 100644
+index 0000000..a67d9c3
+Binary files /dev/null and b/data/images/test/_83420634_1d463cdb-42a5-455c-9102-1a035bb37018.jpg differ
+diff --git a/data/images/test/_83420634_1d463cdb-42a5-455c-9102-1a035bb37018.xml b/data/images/test/_83420634_1d463cdb-42a5-455c-9102-1a035bb37018.xml
+new file mode 100644
+index 0000000..38a2e11
+--- /dev/null
++++ b/data/images/test/_83420634_1d463cdb-42a5-455c-9102-1a035bb37018.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>_83420634_1d463cdb-42a5-455c-9102-1a035bb37018.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\_83420634_1d463cdb-42a5-455c-9102-1a035bb37018.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>146</xmin>
++			<ymin>14</ymin>
++			<xmax>745</xmax>
++			<ymax>363</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/test/_84855371_84855370.jpg b/data/images/test/_84855371_84855370.jpg
+new file mode 100644
+index 0000000..ad8924f
+Binary files /dev/null and b/data/images/test/_84855371_84855370.jpg differ
+diff --git a/data/images/test/_84855371_84855370.xml b/data/images/test/_84855371_84855370.xml
+new file mode 100644
+index 0000000..1861ac3
+--- /dev/null
++++ b/data/images/test/_84855371_84855370.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>_84855371_84855370.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\_84855371_84855370.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>447</xmin>
++			<ymin>148</ymin>
++			<xmax>593</xmax>
++			<ymax>513</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/test/_86577362_magginoodlepack.jpg b/data/images/test/_86577362_magginoodlepack.jpg
+new file mode 100644
+index 0000000..63a6307
+Binary files /dev/null and b/data/images/test/_86577362_magginoodlepack.jpg differ
+diff --git a/data/images/test/_86577362_magginoodlepack.xml b/data/images/test/_86577362_magginoodlepack.xml
+new file mode 100644
+index 0000000..f504b04
+--- /dev/null
++++ b/data/images/test/_86577362_magginoodlepack.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>_86577362_magginoodlepack.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\_86577362_magginoodlepack.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>8</xmin>
++			<ymin>19</ymin>
++			<xmax>490</xmax>
++			<ymax>598</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/103153836-GettyImages-477303212.jpg b/data/images/train/103153836-GettyImages-477303212.jpg
+new file mode 100644
+index 0000000..bfa2ea8
+Binary files /dev/null and b/data/images/train/103153836-GettyImages-477303212.jpg differ
+diff --git a/data/images/train/103153836-GettyImages-477303212.xml b/data/images/train/103153836-GettyImages-477303212.xml
+new file mode 100644
+index 0000000..871259d
+--- /dev/null
++++ b/data/images/train/103153836-GettyImages-477303212.xml
+@@ -0,0 +1,50 @@
++<annotation>
++	<folder>images</folder>
++	<filename>103153836-GettyImages-477303212.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\103153836-GettyImages-477303212.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>322</xmin>
++			<ymin>190</ymin>
++			<xmax>524</xmax>
++			<ymax>565</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>411</xmin>
++			<ymin>23</ymin>
++			<xmax>584</xmax>
++			<ymax>206</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>233</xmin>
++			<ymin>75</ymin>
++			<xmax>405</xmax>
++			<ymax>295</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/1354345_Wallpaper2.jpg b/data/images/train/1354345_Wallpaper2.jpg
+new file mode 100644
+index 0000000..08b3f12
+Binary files /dev/null and b/data/images/train/1354345_Wallpaper2.jpg differ
+diff --git a/data/images/train/1354345_Wallpaper2.xml b/data/images/train/1354345_Wallpaper2.xml
+new file mode 100644
+index 0000000..11b23f8
+--- /dev/null
++++ b/data/images/train/1354345_Wallpaper2.xml
+@@ -0,0 +1,86 @@
++<annotation>
++	<folder>images</folder>
++	<filename>1354345_Wallpaper2.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\1354345_Wallpaper2.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>331</xmin>
++			<ymin>197</ymin>
++			<xmax>505</xmax>
++			<ymax>395</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>370</xmin>
++			<ymin>403</ymin>
++			<xmax>546</xmax>
++			<ymax>599</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>491</xmin>
++			<ymin>190</ymin>
++			<xmax>654</xmax>
++			<ymax>407</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>309</xmin>
++			<ymin>1</ymin>
++			<xmax>486</xmax>
++			<ymax>171</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>462</xmin>
++			<ymin>3</ymin>
++			<xmax>642</xmax>
++			<ymax>173</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>222</xmin>
++			<ymin>20</ymin>
++			<xmax>330</xmax>
++			<ymax>220</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/1527708622207-maggi.jpg b/data/images/train/1527708622207-maggi.jpg
+new file mode 100644
+index 0000000..34a1849
+Binary files /dev/null and b/data/images/train/1527708622207-maggi.jpg differ
+diff --git a/data/images/train/1527708622207-maggi.xml b/data/images/train/1527708622207-maggi.xml
+new file mode 100644
+index 0000000..dd1a946
+--- /dev/null
++++ b/data/images/train/1527708622207-maggi.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>1527708622207-maggi.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\1527708622207-maggi.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>196</xmin>
++			<ymin>45</ymin>
++			<xmax>628</xmax>
++			<ymax>559</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/51FydOvdbyL.jpg b/data/images/train/51FydOvdbyL.jpg
+new file mode 100644
+index 0000000..28cae0b
+Binary files /dev/null and b/data/images/train/51FydOvdbyL.jpg differ
+diff --git a/data/images/train/51FydOvdbyL.xml b/data/images/train/51FydOvdbyL.xml
+new file mode 100644
+index 0000000..11d4f85
+--- /dev/null
++++ b/data/images/train/51FydOvdbyL.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>51FydOvdbyL.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\51FydOvdbyL.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>64</xmin>
++			<ymin>27</ymin>
++			<xmax>743</xmax>
++			<ymax>574</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/754782-486731-428929-maggi-afp.jpg b/data/images/train/754782-486731-428929-maggi-afp.jpg
+new file mode 100644
+index 0000000..8e31e35
+Binary files /dev/null and b/data/images/train/754782-486731-428929-maggi-afp.jpg differ
+diff --git a/data/images/train/754782-486731-428929-maggi-afp.xml b/data/images/train/754782-486731-428929-maggi-afp.xml
+new file mode 100644
+index 0000000..e134666
+--- /dev/null
++++ b/data/images/train/754782-486731-428929-maggi-afp.xml
+@@ -0,0 +1,38 @@
++<annotation>
++	<folder>images</folder>
++	<filename>754782-486731-428929-maggi-afp.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\754782-486731-428929-maggi-afp.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>304</xmin>
++			<ymin>235</ymin>
++			<xmax>577</xmax>
++			<ymax>508</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>287</xmin>
++			<ymin>1</ymin>
++			<xmax>550</xmax>
++			<ymax>212</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/BL01_PG5_MAGGI.jpg b/data/images/train/BL01_PG5_MAGGI.jpg
+new file mode 100644
+index 0000000..f3c867a
+Binary files /dev/null and b/data/images/train/BL01_PG5_MAGGI.jpg differ
+diff --git a/data/images/train/BL01_PG5_MAGGI.xml b/data/images/train/BL01_PG5_MAGGI.xml
+new file mode 100644
+index 0000000..7f31579
+--- /dev/null
++++ b/data/images/train/BL01_PG5_MAGGI.xml
+@@ -0,0 +1,38 @@
++<annotation>
++	<folder>images</folder>
++	<filename>BL01_PG5_MAGGI.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\BL01_PG5_MAGGI.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>7</xmin>
++			<ymin>16</ymin>
++			<xmax>398</xmax>
++			<ymax>600</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>402</xmin>
++			<ymin>8</ymin>
++			<xmax>798</xmax>
++			<ymax>596</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/DSC_0459-001.jpg b/data/images/train/DSC_0459-001.jpg
+new file mode 100644
+index 0000000..cdafad7
+Binary files /dev/null and b/data/images/train/DSC_0459-001.jpg differ
+diff --git a/data/images/train/DSC_0459-001.xml b/data/images/train/DSC_0459-001.xml
+new file mode 100644
+index 0000000..1df9d80
+--- /dev/null
++++ b/data/images/train/DSC_0459-001.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>DSC_0459-001.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\DSC_0459-001.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>247</xmin>
++			<ymin>192</ymin>
++			<xmax>800</xmax>
++			<ymax>592</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/MAGGI_NESTLE_FOOD.jpg b/data/images/train/MAGGI_NESTLE_FOOD.jpg
+new file mode 100644
+index 0000000..6bee15a
+Binary files /dev/null and b/data/images/train/MAGGI_NESTLE_FOOD.jpg differ
+diff --git a/data/images/train/MAGGI_NESTLE_FOOD.xml b/data/images/train/MAGGI_NESTLE_FOOD.xml
+new file mode 100644
+index 0000000..13c6ca4
+--- /dev/null
++++ b/data/images/train/MAGGI_NESTLE_FOOD.xml
+@@ -0,0 +1,110 @@
++<annotation>
++	<folder>images</folder>
++	<filename>MAGGI_NESTLE_FOOD.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\MAGGI_NESTLE_FOOD.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>303</xmin>
++			<ymin>22</ymin>
++			<xmax>487</xmax>
++			<ymax>267</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>11</xmin>
++			<ymin>22</ymin>
++			<xmax>171</xmax>
++			<ymax>299</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>501</xmin>
++			<ymin>5</ymin>
++			<xmax>720</xmax>
++			<ymax>272</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>386</xmin>
++			<ymin>280</ymin>
++			<xmax>607</xmax>
++			<ymax>593</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>588</xmin>
++			<ymin>278</ymin>
++			<xmax>800</xmax>
++			<ymax>598</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>177</xmin>
++			<ymin>296</ymin>
++			<xmax>384</xmax>
++			<ymax>600</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>2</xmin>
++			<ymin>291</ymin>
++			<xmax>175</xmax>
++			<ymax>587</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>167</xmin>
++			<ymin>25</ymin>
++			<xmax>308</xmax>
++			<ymax>278</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/Maggi-2-Minute-Noodles-Masala-250px.jpg b/data/images/train/Maggi-2-Minute-Noodles-Masala-250px.jpg
+new file mode 100644
+index 0000000..0f8db86
+Binary files /dev/null and b/data/images/train/Maggi-2-Minute-Noodles-Masala-250px.jpg differ
+diff --git a/data/images/train/Maggi-2-Minute-Noodles-Masala-250px.xml b/data/images/train/Maggi-2-Minute-Noodles-Masala-250px.xml
+new file mode 100644
+index 0000000..a1ffda5
+--- /dev/null
++++ b/data/images/train/Maggi-2-Minute-Noodles-Masala-250px.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>Maggi-2-Minute-Noodles-Masala-250px.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\Maggi-2-Minute-Noodles-Masala-250px.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>128</xmin>
++			<ymin>3</ymin>
++			<xmax>693</xmax>
++			<ymax>595</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/Maggi-Masala-Noodles-089.jpg b/data/images/train/Maggi-Masala-Noodles-089.jpg
+new file mode 100644
+index 0000000..b7e3ff4
+Binary files /dev/null and b/data/images/train/Maggi-Masala-Noodles-089.jpg differ
+diff --git a/data/images/train/Maggi-Masala-Noodles-089.xml b/data/images/train/Maggi-Masala-Noodles-089.xml
+new file mode 100644
+index 0000000..d424cf7
+--- /dev/null
++++ b/data/images/train/Maggi-Masala-Noodles-089.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>Maggi-Masala-Noodles-089.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\Maggi-Masala-Noodles-089.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>67</xmin>
++			<ymin>3</ymin>
++			<xmax>747</xmax>
++			<ymax>600</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/Maggi-Noodles.jpg b/data/images/train/Maggi-Noodles.jpg
+new file mode 100644
+index 0000000..5119d82
+Binary files /dev/null and b/data/images/train/Maggi-Noodles.jpg differ
+diff --git a/data/images/train/Maggi-Noodles.xml b/data/images/train/Maggi-Noodles.xml
+new file mode 100644
+index 0000000..f6e5d93
+--- /dev/null
++++ b/data/images/train/Maggi-Noodles.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>Maggi-Noodles.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\Maggi-Noodles.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>237</xmin>
++			<ymin>186</ymin>
++			<xmax>527</xmax>
++			<ymax>488</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/Maggi.jpg b/data/images/train/Maggi.jpg
+new file mode 100644
+index 0000000..643ff50
+Binary files /dev/null and b/data/images/train/Maggi.jpg differ
+diff --git a/data/images/train/Maggi.xml b/data/images/train/Maggi.xml
+new file mode 100644
+index 0000000..9e7b4e6
+--- /dev/null
++++ b/data/images/train/Maggi.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>Maggi.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\Maggi.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>230</xmin>
++			<ymin>75</ymin>
++			<xmax>592</xmax>
++			<ymax>569</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/Maggi_2_Minute_Noodles_Masala_Spicy_2.8OZ_39607__24961.1427719663.1280.1280.jpg b/data/images/train/Maggi_2_Minute_Noodles_Masala_Spicy_2.8OZ_39607__24961.1427719663.1280.1280.jpg
+new file mode 100644
+index 0000000..b54826c
+Binary files /dev/null and b/data/images/train/Maggi_2_Minute_Noodles_Masala_Spicy_2.8OZ_39607__24961.1427719663.1280.1280.jpg differ
+diff --git a/data/images/train/Maggi_2_Minute_Noodles_Masala_Spicy_2.8OZ_39607__24961.1427719663.1280.xml b/data/images/train/Maggi_2_Minute_Noodles_Masala_Spicy_2.8OZ_39607__24961.1427719663.1280.xml
+new file mode 100644
+index 0000000..73c9962
+--- /dev/null
++++ b/data/images/train/Maggi_2_Minute_Noodles_Masala_Spicy_2.8OZ_39607__24961.1427719663.1280.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>Maggi_2_Minute_Noodles_Masala_Spicy_2.8OZ_39607__24961.1427719663.1280.1280.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\Maggi_2_Minute_Noodles_Masala_Spicy_2.8OZ_39607__24961.1427719663.1280.1280.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>2</xmin>
++			<ymin>8</ymin>
++			<xmax>800</xmax>
++			<ymax>581</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.1441018958.png b/data/images/train/Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.1441018958.png
+new file mode 100644
+index 0000000..98a2275
+Binary files /dev/null and b/data/images/train/Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.1441018958.png differ
+diff --git a/data/images/train/Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.xml b/data/images/train/Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.xml
+new file mode 100644
+index 0000000..eb7b082
+--- /dev/null
++++ b/data/images/train/Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.1441018958.png</filename>
++	<path>B:\OBJDectExp\Kirana\images\Maggi_Hungroo_Masala_Noodles_14.81_OZ_420_Grams_2__89190.1441018958.png</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>37</xmin>
++			<ymin>44</ymin>
++			<xmax>767</xmax>
++			<ymax>518</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/Maggi_Vegetable_Atta_Noodles_Masala_80_Grams__69039.1445421296.jpg b/data/images/train/Maggi_Vegetable_Atta_Noodles_Masala_80_Grams__69039.1445421296.jpg
+new file mode 100644
+index 0000000..5931025
+Binary files /dev/null and b/data/images/train/Maggi_Vegetable_Atta_Noodles_Masala_80_Grams__69039.1445421296.jpg differ
+diff --git a/data/images/train/Maggi_Vegetable_Atta_Noodles_Masala_80_Grams__69039.xml b/data/images/train/Maggi_Vegetable_Atta_Noodles_Masala_80_Grams__69039.xml
+new file mode 100644
+index 0000000..bc31c61
+--- /dev/null
++++ b/data/images/train/Maggi_Vegetable_Atta_Noodles_Masala_80_Grams__69039.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>Maggi_Vegetable_Atta_Noodles_Masala_80_Grams__69039.1445421296.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\Maggi_Vegetable_Atta_Noodles_Masala_80_Grams__69039.1445421296.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>118</xmin>
++			<ymin>168</ymin>
++			<xmax>694</xmax>
++			<ymax>584</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/Maggi_ibnlive_380.jpg b/data/images/train/Maggi_ibnlive_380.jpg
+new file mode 100644
+index 0000000..d5aacbe
+Binary files /dev/null and b/data/images/train/Maggi_ibnlive_380.jpg differ
+diff --git a/data/images/train/Maggi_ibnlive_380.xml b/data/images/train/Maggi_ibnlive_380.xml
+new file mode 100644
+index 0000000..3cb6f36
+--- /dev/null
++++ b/data/images/train/Maggi_ibnlive_380.xml
+@@ -0,0 +1,38 @@
++<annotation>
++	<folder>images</folder>
++	<filename>Maggi_ibnlive_380.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\Maggi_ibnlive_380.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>8</xmin>
++			<ymin>225</ymin>
++			<xmax>724</xmax>
++			<ymax>467</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>23</xmin>
++			<ymin>8</ymin>
++			<xmax>737</xmax>
++			<ymax>240</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/dt-maggi_0.jpg b/data/images/train/dt-maggi_0.jpg
+new file mode 100644
+index 0000000..46c1712
+Binary files /dev/null and b/data/images/train/dt-maggi_0.jpg differ
+diff --git a/data/images/train/dt-maggi_0.xml b/data/images/train/dt-maggi_0.xml
+new file mode 100644
+index 0000000..84fb919
+--- /dev/null
++++ b/data/images/train/dt-maggi_0.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>dt-maggi_0.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\dt-maggi_0.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>222</xmin>
++			<ymin>133</ymin>
++			<xmax>547</xmax>
++			<ymax>575</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/gettyimages-475683666.jpg b/data/images/train/gettyimages-475683666.jpg
+new file mode 100644
+index 0000000..e75a714
+Binary files /dev/null and b/data/images/train/gettyimages-475683666.jpg differ
+diff --git a/data/images/train/gettyimages-475683666.xml b/data/images/train/gettyimages-475683666.xml
+new file mode 100644
+index 0000000..ac3ce6b
+--- /dev/null
++++ b/data/images/train/gettyimages-475683666.xml
+@@ -0,0 +1,38 @@
++<annotation>
++	<folder>images</folder>
++	<filename>gettyimages-475683666.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\gettyimages-475683666.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>227</xmin>
++			<ymin>130</ymin>
++			<xmax>539</xmax>
++			<ymax>584</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>4</xmin>
++			<ymin>123</ymin>
++			<xmax>220</xmax>
++			<ymax>581</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/imrs.jpg b/data/images/train/imrs.jpg
+new file mode 100644
+index 0000000..75026e7
+Binary files /dev/null and b/data/images/train/imrs.jpg differ
+diff --git a/data/images/train/imrs.xml b/data/images/train/imrs.xml
+new file mode 100644
+index 0000000..693ede3
+--- /dev/null
++++ b/data/images/train/imrs.xml
+@@ -0,0 +1,50 @@
++<annotation>
++	<folder>images</folder>
++	<filename>imrs.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\imrs.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>376</xmin>
++			<ymin>278</ymin>
++			<xmax>549</xmax>
++			<ymax>578</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>511</xmin>
++			<ymin>190</ymin>
++			<xmax>695</xmax>
++			<ymax>574</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>675</xmin>
++			<ymin>292</ymin>
++			<xmax>800</xmax>
++			<ymax>595</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/istockphoto-476330800-1024x1024.jpg b/data/images/train/istockphoto-476330800-1024x1024.jpg
+new file mode 100644
+index 0000000..36105a7
+Binary files /dev/null and b/data/images/train/istockphoto-476330800-1024x1024.jpg differ
+diff --git a/data/images/train/istockphoto-476330800-1024x1024.xml b/data/images/train/istockphoto-476330800-1024x1024.xml
+new file mode 100644
+index 0000000..3860107
+--- /dev/null
++++ b/data/images/train/istockphoto-476330800-1024x1024.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>istockphoto-476330800-1024x1024.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\istockphoto-476330800-1024x1024.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>108</xmin>
++			<ymin>1</ymin>
++			<xmax>639</xmax>
++			<ymax>592</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi (1).jpg b/data/images/train/maggi (1).jpg
+new file mode 100644
+index 0000000..7cbcdba
+Binary files /dev/null and b/data/images/train/maggi (1).jpg differ
+diff --git a/data/images/train/maggi (1).xml b/data/images/train/maggi (1).xml
+new file mode 100644
+index 0000000..26fd17c
+--- /dev/null
++++ b/data/images/train/maggi (1).xml	
+@@ -0,0 +1,74 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi (1).jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi (1).jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>143</xmin>
++			<ymin>116</ymin>
++			<xmax>271</xmax>
++			<ymax>180</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>262</xmin>
++			<ymin>116</ymin>
++			<xmax>390</xmax>
++			<ymax>175</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>137</xmin>
++			<ymin>60</ymin>
++			<xmax>262</xmax>
++			<ymax>120</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>260</xmin>
++			<ymin>63</ymin>
++			<xmax>383</xmax>
++			<ymax>122</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>256</xmin>
++			<ymin>411</ymin>
++			<xmax>359</xmax>
++			<ymax>582</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-2-minute-masala-noodles-785.jpg b/data/images/train/maggi-2-minute-masala-noodles-785.jpg
+new file mode 100644
+index 0000000..7c23f6e
+Binary files /dev/null and b/data/images/train/maggi-2-minute-masala-noodles-785.jpg differ
+diff --git a/data/images/train/maggi-2-minute-masala-noodles-785.xml b/data/images/train/maggi-2-minute-masala-noodles-785.xml
+new file mode 100644
+index 0000000..a6e05bd
+--- /dev/null
++++ b/data/images/train/maggi-2-minute-masala-noodles-785.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-2-minute-masala-noodles-785.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-2-minute-masala-noodles-785.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>66</xmin>
++			<ymin>91</ymin>
++			<xmax>720</xmax>
++			<ymax>570</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-2-minute-noodles-back.jpg b/data/images/train/maggi-2-minute-noodles-back.jpg
+new file mode 100644
+index 0000000..4c06485
+Binary files /dev/null and b/data/images/train/maggi-2-minute-noodles-back.jpg differ
+diff --git a/data/images/train/maggi-2-minute-noodles-back.xml b/data/images/train/maggi-2-minute-noodles-back.xml
+new file mode 100644
+index 0000000..7e159a9
+--- /dev/null
++++ b/data/images/train/maggi-2-minute-noodles-back.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-2-minute-noodles-back.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-2-minute-noodles-back.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>104</xmin>
++			<ymin>42</ymin>
++			<xmax>684</xmax>
++			<ymax>564</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-625_625x350_41437800473.jpg b/data/images/train/maggi-625_625x350_41437800473.jpg
+new file mode 100644
+index 0000000..886ffcc
+Binary files /dev/null and b/data/images/train/maggi-625_625x350_41437800473.jpg differ
+diff --git a/data/images/train/maggi-625_625x350_41437800473.xml b/data/images/train/maggi-625_625x350_41437800473.xml
+new file mode 100644
+index 0000000..afcff61
+--- /dev/null
++++ b/data/images/train/maggi-625_625x350_41437800473.xml
+@@ -0,0 +1,50 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-625_625x350_41437800473.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-625_625x350_41437800473.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>186</xmin>
++			<ymin>114</ymin>
++			<xmax>446</xmax>
++			<ymax>429</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>456</xmin>
++			<ymin>93</ymin>
++			<xmax>717</xmax>
++			<ymax>450</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>3</xmin>
++			<ymin>18</ymin>
++			<xmax>201</xmax>
++			<ymax>435</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-Chotu.jpg b/data/images/train/maggi-Chotu.jpg
+new file mode 100644
+index 0000000..b1e9685
+Binary files /dev/null and b/data/images/train/maggi-Chotu.jpg differ
+diff --git a/data/images/train/maggi-Chotu.xml b/data/images/train/maggi-Chotu.xml
+new file mode 100644
+index 0000000..4b8c7f5
+--- /dev/null
++++ b/data/images/train/maggi-Chotu.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-Chotu.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-Chotu.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>169</xmin>
++			<ymin>49</ymin>
++			<xmax>641</xmax>
++			<ymax>543</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-bccl.jpg b/data/images/train/maggi-bccl.jpg
+new file mode 100644
+index 0000000..21b7ff6
+Binary files /dev/null and b/data/images/train/maggi-bccl.jpg differ
+diff --git a/data/images/train/maggi-bccl.xml b/data/images/train/maggi-bccl.xml
+new file mode 100644
+index 0000000..9c936cd
+--- /dev/null
++++ b/data/images/train/maggi-bccl.xml
+@@ -0,0 +1,38 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-bccl.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-bccl.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>371</xmin>
++			<ymin>35</ymin>
++			<xmax>800</xmax>
++			<ymax>537</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>7</xmin>
++			<ymin>158</ymin>
++			<xmax>430</xmax>
++			<ymax>598</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-exchange-offer-return-empty-plastic-packets-get-one-packet-free.jpg b/data/images/train/maggi-exchange-offer-return-empty-plastic-packets-get-one-packet-free.jpg
+new file mode 100644
+index 0000000..5f404ce
+Binary files /dev/null and b/data/images/train/maggi-exchange-offer-return-empty-plastic-packets-get-one-packet-free.jpg differ
+diff --git a/data/images/train/maggi-exchange-offer-return-empty-plastic-packets-get-one-packet-free.xml b/data/images/train/maggi-exchange-offer-return-empty-plastic-packets-get-one-packet-free.xml
+new file mode 100644
+index 0000000..0378eeb
+--- /dev/null
++++ b/data/images/train/maggi-exchange-offer-return-empty-plastic-packets-get-one-packet-free.xml
+@@ -0,0 +1,38 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-exchange-offer-return-empty-plastic-packets-get-one-packet-free.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-exchange-offer-return-empty-plastic-packets-get-one-packet-free.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>42</xmin>
++			<ymin>12</ymin>
++			<xmax>463</xmax>
++			<ymax>591</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>391</xmin>
++			<ymin>5</ymin>
++			<xmax>800</xmax>
++			<ymax>559</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-l-pti.jpg b/data/images/train/maggi-l-pti.jpg
+new file mode 100644
+index 0000000..351c756
+Binary files /dev/null and b/data/images/train/maggi-l-pti.jpg differ
+diff --git a/data/images/train/maggi-l-pti.xml b/data/images/train/maggi-l-pti.xml
+new file mode 100644
+index 0000000..07da3e6
+--- /dev/null
++++ b/data/images/train/maggi-l-pti.xml
+@@ -0,0 +1,38 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-l-pti.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-l-pti.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>132</xmin>
++			<ymin>365</ymin>
++			<xmax>481</xmax>
++			<ymax>584</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>205</xmin>
++			<ymin>132</ymin>
++			<xmax>800</xmax>
++			<ymax>551</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-main3.jpg b/data/images/train/maggi-main3.jpg
+new file mode 100644
+index 0000000..179d857
+Binary files /dev/null and b/data/images/train/maggi-main3.jpg differ
+diff --git a/data/images/train/maggi-main3.xml b/data/images/train/maggi-main3.xml
+new file mode 100644
+index 0000000..9116f45
+--- /dev/null
++++ b/data/images/train/maggi-main3.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-main3.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-main3.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>67</xmin>
++			<ymin>26</ymin>
++			<xmax>800</xmax>
++			<ymax>571</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-masala-noodle.jpg b/data/images/train/maggi-masala-noodle.jpg
+new file mode 100644
+index 0000000..877da13
+Binary files /dev/null and b/data/images/train/maggi-masala-noodle.jpg differ
+diff --git a/data/images/train/maggi-masala-noodle.xml b/data/images/train/maggi-masala-noodle.xml
+new file mode 100644
+index 0000000..615803b
+--- /dev/null
++++ b/data/images/train/maggi-masala-noodle.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-masala-noodle.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-masala-noodle.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>106</xmin>
++			<ymin>5</ymin>
++			<xmax>691</xmax>
++			<ymax>598</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-masala-noodles-284-pack-29-280-gm-500x500.png b/data/images/train/maggi-masala-noodles-284-pack-29-280-gm-500x500.png
+new file mode 100644
+index 0000000..a72ccef
+Binary files /dev/null and b/data/images/train/maggi-masala-noodles-284-pack-29-280-gm-500x500.png differ
+diff --git a/data/images/train/maggi-masala-noodles-284-pack-29-280-gm-500x500.xml b/data/images/train/maggi-masala-noodles-284-pack-29-280-gm-500x500.xml
+new file mode 100644
+index 0000000..574aaad
+--- /dev/null
++++ b/data/images/train/maggi-masala-noodles-284-pack-29-280-gm-500x500.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-masala-noodles-284-pack-29-280-gm-500x500.png</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-masala-noodles-284-pack-29-280-gm-500x500.png</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>4</xmin>
++			<ymin>20</ymin>
++			<xmax>800</xmax>
++			<ymax>580</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-masala-noodles-double-pack-35gm-min.jpg b/data/images/train/maggi-masala-noodles-double-pack-35gm-min.jpg
+new file mode 100644
+index 0000000..1082f5a
+Binary files /dev/null and b/data/images/train/maggi-masala-noodles-double-pack-35gm-min.jpg differ
+diff --git a/data/images/train/maggi-masala-noodles-double-pack-35gm-min.xml b/data/images/train/maggi-masala-noodles-double-pack-35gm-min.xml
+new file mode 100644
+index 0000000..f00a00d
+--- /dev/null
++++ b/data/images/train/maggi-masala-noodles-double-pack-35gm-min.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-masala-noodles-double-pack-35gm-min.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-masala-noodles-double-pack-35gm-min.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>120</xmin>
++			<ymin>53</ymin>
++			<xmax>697</xmax>
++			<ymax>532</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-noodles-500x500 (1).jpg b/data/images/train/maggi-noodles-500x500 (1).jpg
+new file mode 100644
+index 0000000..aa44954
+Binary files /dev/null and b/data/images/train/maggi-noodles-500x500 (1).jpg differ
+diff --git a/data/images/train/maggi-noodles-500x500 (1).xml b/data/images/train/maggi-noodles-500x500 (1).xml
+new file mode 100644
+index 0000000..f5449b2
+--- /dev/null
++++ b/data/images/train/maggi-noodles-500x500 (1).xml	
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-noodles-500x500 (1).jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-noodles-500x500 (1).jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>143</xmin>
++			<ymin>31</ymin>
++			<xmax>658</xmax>
++			<ymax>578</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-noodles-500x500.jpg b/data/images/train/maggi-noodles-500x500.jpg
+new file mode 100644
+index 0000000..b37abee
+Binary files /dev/null and b/data/images/train/maggi-noodles-500x500.jpg differ
+diff --git a/data/images/train/maggi-noodles-500x500.xml b/data/images/train/maggi-noodles-500x500.xml
+new file mode 100644
+index 0000000..a392df9
+--- /dev/null
++++ b/data/images/train/maggi-noodles-500x500.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-noodles-500x500.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-noodles-500x500.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>134</xmin>
++			<ymin>22</ymin>
++			<xmax>662</xmax>
++			<ymax>591</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-noodles-back-in-market_01628182-8ae5-11e5-9788-42b4b9d38c49.jpg b/data/images/train/maggi-noodles-back-in-market_01628182-8ae5-11e5-9788-42b4b9d38c49.jpg
+new file mode 100644
+index 0000000..8aad426
+Binary files /dev/null and b/data/images/train/maggi-noodles-back-in-market_01628182-8ae5-11e5-9788-42b4b9d38c49.jpg differ
+diff --git a/data/images/train/maggi-noodles-back-in-market_01628182-8ae5-11e5-9788-42b4b9d38c49.xml b/data/images/train/maggi-noodles-back-in-market_01628182-8ae5-11e5-9788-42b4b9d38c49.xml
+new file mode 100644
+index 0000000..bbcf4b7
+--- /dev/null
++++ b/data/images/train/maggi-noodles-back-in-market_01628182-8ae5-11e5-9788-42b4b9d38c49.xml
+@@ -0,0 +1,170 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-noodles-back-in-market_01628182-8ae5-11e5-9788-42b4b9d38c49.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-noodles-back-in-market_01628182-8ae5-11e5-9788-42b4b9d38c49.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>277</xmin>
++			<ymin>141</ymin>
++			<xmax>471</xmax>
++			<ymax>227</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>469</xmin>
++			<ymin>160</ymin>
++			<xmax>638</xmax>
++			<ymax>231</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>481</xmin>
++			<ymin>229</ymin>
++			<xmax>653</xmax>
++			<ymax>299</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>294</xmin>
++			<ymin>228</ymin>
++			<xmax>486</xmax>
++			<ymax>303</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>65</xmin>
++			<ymin>218</ymin>
++			<xmax>301</xmax>
++			<ymax>301</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>56</xmin>
++			<ymin>139</ymin>
++			<xmax>278</xmax>
++			<ymax>220</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>489</xmin>
++			<ymin>4</ymin>
++			<xmax>660</xmax>
++			<ymax>86</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>311</xmin>
++			<ymin>446</ymin>
++			<xmax>493</xmax>
++			<ymax>506</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>487</xmin>
++			<ymin>428</ymin>
++			<xmax>651</xmax>
++			<ymax>485</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>90</xmin>
++			<ymin>464</ymin>
++			<xmax>317</xmax>
++			<ymax>533</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>310</xmin>
++			<ymin>384</ymin>
++			<xmax>492</xmax>
++			<ymax>442</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>490</xmin>
++			<ymin>380</ymin>
++			<xmax>653</xmax>
++			<ymax>425</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>294</xmin>
++			<ymin>1</ymin>
++			<xmax>488</xmax>
++			<ymax>83</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi-packet_625x350_61432201048.jpg b/data/images/train/maggi-packet_625x350_61432201048.jpg
+new file mode 100644
+index 0000000..374992f
+Binary files /dev/null and b/data/images/train/maggi-packet_625x350_61432201048.jpg differ
+diff --git a/data/images/train/maggi-packet_625x350_61432201048.xml b/data/images/train/maggi-packet_625x350_61432201048.xml
+new file mode 100644
+index 0000000..8c4f87b
+--- /dev/null
++++ b/data/images/train/maggi-packet_625x350_61432201048.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi-packet_625x350_61432201048.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi-packet_625x350_61432201048.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>160</xmin>
++			<ymin>3</ymin>
++			<xmax>578</xmax>
++			<ymax>600</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi1759.jpg b/data/images/train/maggi1759.jpg
+new file mode 100644
+index 0000000..bb20ec6
+Binary files /dev/null and b/data/images/train/maggi1759.jpg differ
+diff --git a/data/images/train/maggi1759.xml b/data/images/train/maggi1759.xml
+new file mode 100644
+index 0000000..bc545c5
+--- /dev/null
++++ b/data/images/train/maggi1759.xml
+@@ -0,0 +1,98 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi1759.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi1759.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>446</xmin>
++			<ymin>373</ymin>
++			<xmax>583</xmax>
++			<ymax>470</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>164</xmin>
++			<ymin>411</ymin>
++			<xmax>341</xmax>
++			<ymax>518</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>213</xmin>
++			<ymin>190</ymin>
++			<xmax>300</xmax>
++			<ymax>292</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>284</xmin>
++			<ymin>188</ymin>
++			<xmax>347</xmax>
++			<ymax>287</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>341</xmin>
++			<ymin>203</ymin>
++			<xmax>404</xmax>
++			<ymax>288</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>391</xmin>
++			<ymin>195</ymin>
++			<xmax>454</xmax>
++			<ymax>280</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>137</xmin>
++			<ymin>200</ymin>
++			<xmax>209</xmax>
++			<ymax>274</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi759.jpg b/data/images/train/maggi759.jpg
+new file mode 100644
+index 0000000..b833340
+Binary files /dev/null and b/data/images/train/maggi759.jpg differ
+diff --git a/data/images/train/maggi759.xml b/data/images/train/maggi759.xml
+new file mode 100644
+index 0000000..7a5b4af
+--- /dev/null
++++ b/data/images/train/maggi759.xml
+@@ -0,0 +1,74 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi759.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi759.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>224</xmin>
++			<ymin>228</ymin>
++			<xmax>320</xmax>
++			<ymax>340</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>294</xmin>
++			<ymin>220</ymin>
++			<xmax>375</xmax>
++			<ymax>337</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>364</xmin>
++			<ymin>236</ymin>
++			<xmax>432</xmax>
++			<ymax>332</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>451</xmin>
++			<ymin>218</ymin>
++			<xmax>527</xmax>
++			<ymax>315</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>154</xmin>
++			<ymin>273</ymin>
++			<xmax>279</xmax>
++			<ymax>359</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi759s.jpg b/data/images/train/maggi759s.jpg
+new file mode 100644
+index 0000000..8c7d94f
+Binary files /dev/null and b/data/images/train/maggi759s.jpg differ
+diff --git a/data/images/train/maggi759s.xml b/data/images/train/maggi759s.xml
+new file mode 100644
+index 0000000..e4d2850
+--- /dev/null
++++ b/data/images/train/maggi759s.xml
+@@ -0,0 +1,122 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi759s.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi759s.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>202</xmin>
++			<ymin>306</ymin>
++			<xmax>293</xmax>
++			<ymax>409</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>271</xmin>
++			<ymin>301</ymin>
++			<xmax>335</xmax>
++			<ymax>397</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>318</xmin>
++			<ymin>318</ymin>
++			<xmax>382</xmax>
++			<ymax>394</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>371</xmin>
++			<ymin>298</ymin>
++			<xmax>428</xmax>
++			<ymax>380</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>418</xmin>
++			<ymin>300</ymin>
++			<xmax>485</xmax>
++			<ymax>376</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>116</xmin>
++			<ymin>321</ymin>
++			<xmax>196</xmax>
++			<ymax>390</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>308</xmin>
++			<ymin>428</ymin>
++			<xmax>433</xmax>
++			<ymax>495</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>316</xmin>
++			<ymin>504</ymin>
++			<xmax>434</xmax>
++			<ymax>590</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>129</xmin>
++			<ymin>456</ymin>
++			<xmax>305</xmax>
++			<ymax>545</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi_1542355370_725x725.jpg b/data/images/train/maggi_1542355370_725x725.jpg
+new file mode 100644
+index 0000000..cac5a2f
+Binary files /dev/null and b/data/images/train/maggi_1542355370_725x725.jpg differ
+diff --git a/data/images/train/maggi_1542355370_725x725.xml b/data/images/train/maggi_1542355370_725x725.xml
+new file mode 100644
+index 0000000..2426730
+--- /dev/null
++++ b/data/images/train/maggi_1542355370_725x725.xml
+@@ -0,0 +1,62 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi_1542355370_725x725.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi_1542355370_725x725.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>352</xmin>
++			<ymin>3</ymin>
++			<xmax>443</xmax>
++			<ymax>278</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>558</xmin>
++			<ymin>2</ymin>
++			<xmax>652</xmax>
++			<ymax>304</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>473</xmin>
++			<ymin>443</ymin>
++			<xmax>543</xmax>
++			<ymax>591</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>537</xmin>
++			<ymin>472</ymin>
++			<xmax>614</xmax>
++			<ymax>600</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi_8beba8a0-7bff-11e5-b3c0-8280ab8607ff.jpg b/data/images/train/maggi_8beba8a0-7bff-11e5-b3c0-8280ab8607ff.jpg
+new file mode 100644
+index 0000000..697d47e
+Binary files /dev/null and b/data/images/train/maggi_8beba8a0-7bff-11e5-b3c0-8280ab8607ff.jpg differ
+diff --git a/data/images/train/maggi_8beba8a0-7bff-11e5-b3c0-8280ab8607ff.xml b/data/images/train/maggi_8beba8a0-7bff-11e5-b3c0-8280ab8607ff.xml
+new file mode 100644
+index 0000000..1c23778
+--- /dev/null
++++ b/data/images/train/maggi_8beba8a0-7bff-11e5-b3c0-8280ab8607ff.xml
+@@ -0,0 +1,50 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi_8beba8a0-7bff-11e5-b3c0-8280ab8607ff.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi_8beba8a0-7bff-11e5-b3c0-8280ab8607ff.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>181</xmin>
++			<ymin>6</ymin>
++			<xmax>312</xmax>
++			<ymax>346</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>505</xmin>
++			<ymin>1</ymin>
++			<xmax>669</xmax>
++			<ymax>369</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>526</xmin>
++			<ymin>431</ymin>
++			<xmax>639</xmax>
++			<ymax>600</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggi_masala_35g.jpg b/data/images/train/maggi_masala_35g.jpg
+new file mode 100644
+index 0000000..6cc8629
+Binary files /dev/null and b/data/images/train/maggi_masala_35g.jpg differ
+diff --git a/data/images/train/maggi_masala_35g.xml b/data/images/train/maggi_masala_35g.xml
+new file mode 100644
+index 0000000..4b96e1c
+--- /dev/null
++++ b/data/images/train/maggi_masala_35g.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggi_masala_35g.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggi_masala_35g.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>227</xmin>
++			<ymin>101</ymin>
++			<xmax>559</xmax>
++			<ymax>476</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggibtsize-660_111518010345.jpg b/data/images/train/maggibtsize-660_111518010345.jpg
+new file mode 100644
+index 0000000..eafbe7c
+Binary files /dev/null and b/data/images/train/maggibtsize-660_111518010345.jpg differ
+diff --git a/data/images/train/maggibtsize-660_111518010345.xml b/data/images/train/maggibtsize-660_111518010345.xml
+new file mode 100644
+index 0000000..6e3c043
+--- /dev/null
++++ b/data/images/train/maggibtsize-660_111518010345.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggibtsize-660_111518010345.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggibtsize-660_111518010345.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>26</xmin>
++			<ymin>159</ymin>
++			<xmax>752</xmax>
++			<ymax>529</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/magginoodlesatta.jpg b/data/images/train/magginoodlesatta.jpg
+new file mode 100644
+index 0000000..f7189f5
+Binary files /dev/null and b/data/images/train/magginoodlesatta.jpg differ
+diff --git a/data/images/train/magginoodlesatta.xml b/data/images/train/magginoodlesatta.xml
+new file mode 100644
+index 0000000..8dde470
+--- /dev/null
++++ b/data/images/train/magginoodlesatta.xml
+@@ -0,0 +1,38 @@
++<annotation>
++	<folder>images</folder>
++	<filename>magginoodlesatta.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\magginoodlesatta.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>6</xmin>
++			<ymin>19</ymin>
++			<xmax>720</xmax>
++			<ymax>308</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>73</xmin>
++			<ymin>269</ymin>
++			<xmax>791</xmax>
++			<ymax>600</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/maggispicy.jpg b/data/images/train/maggispicy.jpg
+new file mode 100644
+index 0000000..37866f0
+Binary files /dev/null and b/data/images/train/maggispicy.jpg differ
+diff --git a/data/images/train/maggispicy.xml b/data/images/train/maggispicy.xml
+new file mode 100644
+index 0000000..51d5157
+--- /dev/null
++++ b/data/images/train/maggispicy.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>maggispicy.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\maggispicy.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>1</xmin>
++			<ymin>26</ymin>
++			<xmax>787</xmax>
++			<ymax>544</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/nestle2-kd0C--621x414@LiveMint.jpg b/data/images/train/nestle2-kd0C--621x414@LiveMint.jpg
+new file mode 100644
+index 0000000..9dda940
+Binary files /dev/null and b/data/images/train/nestle2-kd0C--621x414@LiveMint.jpg differ
+diff --git a/data/images/train/nestle2-kd0C--621x414@LiveMint.xml b/data/images/train/nestle2-kd0C--621x414@LiveMint.xml
+new file mode 100644
+index 0000000..e2a5343
+--- /dev/null
++++ b/data/images/train/nestle2-kd0C--621x414@LiveMint.xml
+@@ -0,0 +1,50 @@
++<annotation>
++	<folder>images</folder>
++	<filename>nestle2-kd0C--621x414@LiveMint.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\nestle2-kd0C--621x414@LiveMint.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>470</xmin>
++			<ymin>121</ymin>
++			<xmax>750</xmax>
++			<ymax>314</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>1</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>437</xmin>
++			<ymin>334</ymin>
++			<xmax>800</xmax>
++			<ymax>523</ymax>
++		</bndbox>
++	</object>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>348</xmin>
++			<ymin>117</ymin>
++			<xmax>493</xmax>
++			<ymax>229</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/philadelphia-usa-august-15-2015-260nw-310699565.jpg b/data/images/train/philadelphia-usa-august-15-2015-260nw-310699565.jpg
+new file mode 100644
+index 0000000..a2ce2a8
+Binary files /dev/null and b/data/images/train/philadelphia-usa-august-15-2015-260nw-310699565.jpg differ
+diff --git a/data/images/train/philadelphia-usa-august-15-2015-260nw-310699565.xml b/data/images/train/philadelphia-usa-august-15-2015-260nw-310699565.xml
+new file mode 100644
+index 0000000..f9db890
+--- /dev/null
++++ b/data/images/train/philadelphia-usa-august-15-2015-260nw-310699565.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>philadelphia-usa-august-15-2015-260nw-310699565.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\philadelphia-usa-august-15-2015-260nw-310699565.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>317</xmin>
++			<ymin>117</ymin>
++			<xmax>624</xmax>
++			<ymax>526</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/snapshotimagehandler_1772826986.jpeg b/data/images/train/snapshotimagehandler_1772826986.jpeg
+new file mode 100644
+index 0000000..57b240f
+Binary files /dev/null and b/data/images/train/snapshotimagehandler_1772826986.jpeg differ
+diff --git a/data/images/train/snapshotimagehandler_1772826986.xml b/data/images/train/snapshotimagehandler_1772826986.xml
+new file mode 100644
+index 0000000..0404409
+--- /dev/null
++++ b/data/images/train/snapshotimagehandler_1772826986.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>snapshotimagehandler_1772826986.jpeg</filename>
++	<path>B:\OBJDectExp\Kirana\images\snapshotimagehandler_1772826986.jpeg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-small</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>160</xmin>
++			<ymin>10</ymin>
++			<xmax>645</xmax>
++			<ymax>588</ymax>
++		</bndbox>
++	</object>
++</annotation>
+diff --git a/data/images/train/sweet-sour-noodles-1.jpg b/data/images/train/sweet-sour-noodles-1.jpg
+new file mode 100644
+index 0000000..98793d4
+Binary files /dev/null and b/data/images/train/sweet-sour-noodles-1.jpg differ
+diff --git a/data/images/train/sweet-sour-noodles-1.xml b/data/images/train/sweet-sour-noodles-1.xml
+new file mode 100644
+index 0000000..d167829
+--- /dev/null
++++ b/data/images/train/sweet-sour-noodles-1.xml
+@@ -0,0 +1,26 @@
++<annotation>
++	<folder>images</folder>
++	<filename>sweet-sour-noodles-1.jpg</filename>
++	<path>B:\OBJDectExp\Kirana\images\sweet-sour-noodles-1.jpg</path>
++	<source>
++		<database>Unknown</database>
++	</source>
++	<size>
++		<width>800</width>
++		<height>600</height>
++		<depth>3</depth>
++	</size>
++	<segmented>0</segmented>
++	<object>
++		<name>maggi-family</name>
++		<pose>Unspecified</pose>
++		<truncated>0</truncated>
++		<difficult>0</difficult>
++		<bndbox>
++			<xmin>15</xmin>
++			<ymin>24</ymin>
++			<xmax>700</xmax>
++			<ymax>261</ymax>
++		</bndbox>
++	</object>
++</annotation>
