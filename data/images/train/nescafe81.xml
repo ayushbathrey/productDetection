@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nescafe</folder>
+	<filename>nescafe81.jpg</filename>
+	<path>F:\IDownloads\nescafe\nescafe81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nescafe-cappe-big</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>1</ymin>
+			<xmax>180</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>toast</folder>
+	<filename>toast75.jpg</filename>
+	<path>F:\IDownloads\toast\toast75.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>262</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Britania-toast-large</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>2</ymin>
+			<xmax>193</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

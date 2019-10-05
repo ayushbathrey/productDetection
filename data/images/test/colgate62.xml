@@ -1,0 +1,26 @@
+<annotation>
+	<folder>toothpaste</folder>
+	<filename>colgate62.jpg</filename>
+	<path>F:\IDownloads\toothpaste\colgate62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>297</width>
+		<height>170</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>colgate-medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>97</ymin>
+			<xmax>269</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

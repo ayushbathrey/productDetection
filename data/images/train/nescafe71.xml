@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nescafe</folder>
+	<filename>nescafe71.jpg</filename>
+	<path>F:\IDownloads\nescafe\nescafe71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nescafe-classic/gold-med</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>72</ymin>
+			<xmax>117</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>
