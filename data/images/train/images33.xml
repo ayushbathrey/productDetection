@@ -1,0 +1,26 @@
+<annotation>
+	<folder>xmls</folder>
+	<filename>images33.jpg</filename>
+	<path>F:\IDownloads\coke\xmls\images33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>389</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke-can</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>280</ymin>
+			<xmax>389</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

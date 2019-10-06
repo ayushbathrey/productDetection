@@ -1,0 +1,26 @@
+<annotation>
+	<folder>xmls</folder>
+	<filename>images74.jpg</filename>
+	<path>F:\IDownloads\xmls\images74.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>391</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke-glass-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>280</ymin>
+			<xmax>391</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>
