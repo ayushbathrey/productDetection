@@ -1,7 +1,7 @@
 <annotation>
-	<folder>lays</folder>
+	<folder>test</folder>
 	<filename>images_102.jpg</filename>
-	<path>F:\IDownloads\lays\images_102.jpg</path>
+	<path>C:\Users\Ayush\Downloads\Compressed\object_detection_demo-master\object_detection_demo-master\data\images\test\images_102.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>60</ymin>
 			<xmax>233</xmax>
 			<ymax>175</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lays-med</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>30</ymin>
+			<xmax>68</xmax>
+			<ymax>148</ymax>
 		</bndbox>
 	</object>
 </annotation>

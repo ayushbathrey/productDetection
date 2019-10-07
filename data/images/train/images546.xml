@@ -1,0 +1,26 @@
+<annotation>
+	<folder>xmls</folder>
+	<filename>images546.jpg</filename>
+	<path>F:\IDownloads\xmls\images546.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>173</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nescafe-dolce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>86</ymin>
+			<xmax>143</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

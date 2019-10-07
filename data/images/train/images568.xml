@@ -1,0 +1,26 @@
+<annotation>
+	<folder>xmls</folder>
+	<filename>images568.jpg</filename>
+	<path>F:\IDownloads\xmls\images568.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>393</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>colgate-total-150gm</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>105</ymin>
+			<xmax>393</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

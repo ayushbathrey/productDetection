@@ -1,7 +1,7 @@
 <annotation>
-	<folder>coke</folder>
+	<folder>train</folder>
 	<filename>coke34.jpg</filename>
-	<path>F:\IDownloads\coke\coke34.jpg</path>
+	<path>C:\Users\Ayush\Downloads\Compressed\object_detection_demo-master\object_detection_demo-master\data\images\train\coke34.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -57,30 +57,6 @@
 			<ymin>87</ymin>
 			<xmax>100</xmax>
 			<ymax>144</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>pepsi-can-pack-2</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>101</xmin>
-			<ymin>88</ymin>
-			<xmax>172</xmax>
-			<ymax>144</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>pepsi-can-pack-2</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>67</xmin>
-			<ymin>144</ymin>
-			<xmax>138</xmax>
-			<ymax>191</ymax>
 		</bndbox>
 	</object>
 	<object>

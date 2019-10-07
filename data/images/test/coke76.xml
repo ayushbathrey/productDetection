@@ -1,7 +1,7 @@
 <annotation>
-	<folder>coke</folder>
+	<folder>test</folder>
 	<filename>coke76.jpg</filename>
-	<path>F:\IDownloads\coke\coke76.jpg</path>
+	<path>C:\Users\Ayush\Downloads\Compressed\object_detection_demo-master\object_detection_demo-master\data\images\test\coke76.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>coke-bottle-700ml</name>
+		<name>coke-bottle-2l</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>coke-bottle-700ml</name>
+		<name>coke-bottle-2l</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

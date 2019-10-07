@@ -1,7 +1,7 @@
 <annotation>
-	<folder>coke</folder>
+	<folder>train</folder>
 	<filename>coke108.jpg</filename>
-	<path>F:\IDownloads\coke\coke108.jpg</path>
+	<path>C:\Users\Ayush\Downloads\Compressed\object_detection_demo-master\object_detection_demo-master\data\images\train\coke108.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,51 +12,87 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>coke-glass</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>8</xmin>
-			<ymin>88</ymin>
-			<xmax>42</xmax>
-			<ymax>194</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>coke-glass</name>
+		<name>coke-glass-bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>78</xmin>
+			<xmin>5</xmin>
 			<ymin>87</ymin>
-			<xmax>114</xmax>
-			<ymax>193</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>coke-glass</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>148</xmin>
-			<ymin>87</ymin>
-			<xmax>180</xmax>
+			<xmax>43</xmax>
 			<ymax>192</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>coke-glass</name>
+		<name>coke-glass-bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>224</xmin>
-			<ymin>86</ymin>
-			<xmax>248</xmax>
+			<xmin>43</xmin>
+			<ymin>89</ymin>
+			<xmax>72</xmax>
 			<ymax>193</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coke-glass-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>89</ymin>
+			<xmax>113</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coke-glass-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>90</ymin>
+			<xmax>147</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coke-glass-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>88</ymin>
+			<xmax>178</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coke-glass-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>88</ymin>
+			<xmax>214</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coke-glass-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>87</ymin>
+			<xmax>249</xmax>
+			<ymax>194</ymax>
 		</bndbox>
 	</object>
 </annotation>

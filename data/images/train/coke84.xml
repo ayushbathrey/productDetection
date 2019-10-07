@@ -1,7 +1,7 @@
 <annotation>
-	<folder>coke</folder>
+	<folder>train</folder>
 	<filename>coke84.jpg</filename>
-	<path>F:\IDownloads\coke\coke84.jpg</path>
+	<path>C:\Users\Ayush\Downloads\Compressed\object_detection_demo-master\object_detection_demo-master\data\images\train\coke84.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,6 +45,18 @@
 			<ymin>5</ymin>
 			<xmax>230</xmax>
 			<ymax>156</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coke-bottle-2l</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>20</ymin>
+			<xmax>81</xmax>
+			<ymax>146</ymax>
 		</bndbox>
 	</object>
 </annotation>

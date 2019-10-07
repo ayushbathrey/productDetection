@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Pictures</folder>
+	<folder>train</folder>
 	<filename>2.jpg</filename>
-	<path>C:\Users\Ayush\Pictures\2.jpg</path>
+	<path>C:\Users\Ayush\Downloads\Compressed\object_detection_demo-master\object_detection_demo-master\data\images\train\2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>coke-glass</name>
+		<name>coke-glass-bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>lays</folder>
+	<folder>train</folder>
 	<filename>images_2.jpg</filename>
-	<path>F:\IDownloads\lays\images_2.jpg</path>
+	<path>C:\Users\Ayush\Downloads\Compressed\object_detection_demo-master\object_detection_demo-master\data\images\train\images_2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>40</xmin>
-			<ymin>28</ymin>
-			<xmax>188</xmax>
-			<ymax>201</ymax>
+			<xmin>35</xmin>
+			<ymin>21</ymin>
+			<xmax>192</xmax>
+			<ymax>204</ymax>
 		</bndbox>
 	</object>
 </annotation>

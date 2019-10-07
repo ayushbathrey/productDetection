@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>coke69.jpg</filename>
+	<path>C:\Users\Ayush\Downloads\Compressed\object_detection_demo-master\object_detection_demo-master\data\images\train\coke69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke-can-diet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>11</ymin>
+			<xmax>192</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

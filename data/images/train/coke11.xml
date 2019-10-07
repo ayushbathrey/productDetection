@@ -1,7 +1,7 @@
 <annotation>
-	<folder>coke</folder>
+	<folder>train</folder>
 	<filename>coke11.jpg</filename>
-	<path>F:\IDownloads\coke\coke11.jpg</path>
+	<path>C:\Users\Ayush\Downloads\Compressed\object_detection_demo-master\object_detection_demo-master\data\images\train\coke11.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,18 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>coke-glass</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>94</xmin>
-			<ymin>111</ymin>
-			<xmax>119</xmax>
-			<ymax>139</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>coke-can</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -31,8 +19,8 @@
 		<bndbox>
 			<xmin>39</xmin>
 			<ymin>127</ymin>
-			<xmax>63</xmax>
-			<ymax>156</ymax>
+			<xmax>62</xmax>
+			<ymax>155</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -57,6 +45,42 @@
 			<ymin>169</ymin>
 			<xmax>94</xmax>
 			<ymax>192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coke-can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>110</ymin>
+			<xmax>112</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coke-can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>107</ymin>
+			<xmax>126</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coke-can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>102</ymin>
+			<xmax>142</xmax>
+			<ymax>131</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>81JI5O0qB5L._SX679_.jpg</filename>
+	<path>C:\Users\Ayush\Downloads\Compressed\object_detection_demo-master\object_detection_demo-master\data\images\test\81JI5O0qB5L._SX679_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maggi-small</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>18</ymin>
+			<xmax>617</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

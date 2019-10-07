@@ -1,7 +1,7 @@
 <annotation>
-	<folder>coke</folder>
+	<folder>train</folder>
 	<filename>coke21.jpg</filename>
-	<path>F:\IDownloads\coke\coke21.jpg</path>
+	<path>C:\Users\Ayush\Downloads\Compressed\object_detection_demo-master\object_detection_demo-master\data\images\train\coke21.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,31 +12,31 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>coke-bottle-300ml</name>
+		<name>coke-bottle-2l</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>129</xmin>
+			<xmin>130</xmin>
 			<ymin>3</ymin>
-			<xmax>199</xmax>
+			<xmax>200</xmax>
 			<ymax>167</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>coke-bottle-300ml</name>
+		<name>coke-bottle-2l</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>68</xmin>
-			<ymin>19</ymin>
-			<xmax>130</xmax>
+			<ymin>13</ymin>
+			<xmax>129</xmax>
 			<ymax>168</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>coke-bottle-300ml</name>
+		<name>coke-bottle-2l</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>coke-bottle-300ml</name>
+		<name>coke-bottle-2l</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -60,15 +60,27 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>coke-bottle-300ml</name>
+		<name>coke-bottle-2l</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>241</xmin>
+			<xmin>232</xmin>
+			<ymin>19</ymin>
+			<xmax>254</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coke-bottle-2l</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
 			<ymin>29</ymin>
-			<xmax>270</xmax>
-			<ymax>152</ymax>
+			<xmax>43</xmax>
+			<ymax>168</ymax>
 		</bndbox>
 	</object>
 </annotation>

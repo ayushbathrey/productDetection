@@ -1,7 +1,7 @@
 <annotation>
-	<folder>coke</folder>
+	<folder>train</folder>
 	<filename>coke43.jpg</filename>
-	<path>F:\IDownloads\coke\coke43.jpg</path>
+	<path>C:\Users\Ayush\Downloads\Compressed\object_detection_demo-master\object_detection_demo-master\data\images\train\coke43.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,30 +33,6 @@
 			<ymin>21</ymin>
 			<xmax>57</xmax>
 			<ymax>106</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>sprite-can</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>9</xmin>
-			<ymin>104</ymin>
-			<xmax>34</xmax>
-			<ymax>146</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>sprite-can</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>34</xmin>
-			<ymin>106</ymin>
-			<xmax>58</xmax>
-			<ymax>145</ymax>
 		</bndbox>
 	</object>
 </annotation>
