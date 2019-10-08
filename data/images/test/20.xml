@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataimages</folder>
+	<filename>20.jpg</filename>
+	<path>F:\IDownloads\dataimages\20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke-bottle-300ml</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>37</ymin>
+			<xmax>680</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

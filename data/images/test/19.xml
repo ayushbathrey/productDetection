@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataimages</folder>
+	<filename>19.jpg</filename>
+	<path>F:\IDownloads\dataimages\19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nescafe-classic/gold-med</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>72</ymin>
+			<xmax>637</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>
