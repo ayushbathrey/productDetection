@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>colgate-total-150mg</name>
+		<name>colgate-total-150gm</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
